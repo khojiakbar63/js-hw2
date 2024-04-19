@@ -193,16 +193,33 @@ let progLanguage = `${oldValue} language`;
 
 // Exercise 1: Write a function that takes two strings as input and returns a new string that is the concatenation of the two.
 
-function concatStrings(conStr1, conStr2) {
-   let concatedString = conStr1.concat(" ", conStr2);
-   return concatedString;
-}
+// function concatStrings(conStr1, conStr2) {
+//    let concatedString = conStr1.concat(" ", conStr2);
+//    return concatedString;
+// }
 
-let conStr1 = 'New'
-let conStr2 = 'String'
+// let conStr1 = 'New'
+// let conStr2 = 'String'
 
-console.log(concatStrings(conStr1, conStr2));
+// console.log(concatStrings(conStr1, conStr2));
 
 
 
 // Exercise 2: Write a function that takes an array of strings as input and returns a single string that is the concatenation of all the strings in the array.
+
+// ?
+
+8. // Trimming Whitespace:
+
+// Exercise 1: Write a function that takes a string as input and returns a new string with all leading and trailing whitespace removed.
+
+function removeWhitespace(){
+   let trimmedWord = trimableWord.trim();
+   return trimmedWord;
+}
+
+// let trimableWord = ` pros and cons `
+
+// console.log(`untrimmed: `, trimableWord);
+
+// console.log(`trimmed:`, removeWhitespace());
