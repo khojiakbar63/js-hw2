@@ -277,3 +277,26 @@ console.log(`HOMEWORK-2`);
 // }
 
 // console.log(returnCharCode('JAVASCRIPT', 5));
+
+11. // Repetition:
+
+// Exercise 1: Write a function that takes a string and a number as input, and returns a new string that is the original string repeated the specified number of times.
+
+// const repeatString = (string, repeatNum) => {
+//    let repeatedString = string.repeat(repeatNum);
+//    return repeatedString
+// }
+
+// console.log(repeatString(` 
+// Hello 
+// `, 30));
+
+// Exercise 2: Write a function that takes a character and a number as input, and returns a string that is the character repeated the specified number of times.
+
+// const repeatString = (string, repeatNum) => {
+//       let repeatedString = string.repeat(repeatNum);
+//       return repeatedString
+//    }
+   
+//    console.log(repeatString(` H `, 30));
+
