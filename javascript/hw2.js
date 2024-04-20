@@ -210,6 +210,9 @@ console.log(`HOMEWORK-2`);
 // let secondArray = ['Pumpkin', "Onion", "Cabbage"];
 // console.log(concatArrays(firstArray, secondArray));
 
+// _____________________________________________________
+
+
 8. // Trimming Whitespace:
 
 // Exercise 1: Write a function that takes a string as input and returns a new string with all leading and trailing whitespace removed.
@@ -235,6 +238,9 @@ console.log(`HOMEWORK-2`);
 // console.log('Start Untrimmed:', leadingSpace);
 // console.log('Start Trimmed:', removeLeadingWS());
 
+// _____________________________________________________
+
+
 9. //Padding:
 // Exercise 1: Write a function that takes a string and a target length as input, and returns a new string that is padded with zeros at the beginning to reach the target length.
 
@@ -254,6 +260,9 @@ console.log(`HOMEWORK-2`);
 // }
 
 // console.log(addLengthToEnd(6, '777'));
+
+// _____________________________________________________
+
 
 10. // Accessing Characters:
 
@@ -278,6 +287,9 @@ console.log(`HOMEWORK-2`);
 
 // console.log(returnCharCode('JAVASCRIPT', 5));
 
+// _____________________________________________________
+
+
 11. // Repetition:
 
 // Exercise 1: Write a function that takes a string and a number as input, and returns a new string that is the original string repeated the specified number of times.
@@ -299,6 +311,9 @@ console.log(`HOMEWORK-2`);
 //    }
    
 //    console.log(repeatString(` H `, 30));
+
+// _____________________________________________________
+
 
 12. // Splitting into an Array:
 
@@ -325,6 +340,9 @@ console.log(`HOMEWORK-2`);
 // let text = 'How long does it take learing Javascript?'
 // let separator = ' ';
 // console.log(returnStrAtLimitedNum(text, separator));
+
+// _____________________________________________________
+
 
 13. // Checking Substring Presence:
 
