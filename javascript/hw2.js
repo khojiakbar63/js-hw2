@@ -312,3 +312,16 @@ console.log(`HOMEWORK-2`);
 // let separator = ' ';
 
 // console.log(returnSubstring(string, separator));
+
+// Exercise 2: Write a function that takes a string and a separator character as input, and returns an array of substrings that were separated by the separator, with a limit on the number of splits.
+
+//? I couldn't undestant this part [with a limit on the number of splits];
+
+
+// function returnStrAtLimitedNum(text, separator){
+//    let returnedText = text.split(separator);
+//    return returnedText
+// }
+// let text = 'How long does it take learing Javascript?'
+// let separator = ' ';
+// console.log(returnStrAtLimitedNum(text, separator));
