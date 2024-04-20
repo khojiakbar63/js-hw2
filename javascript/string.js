@@ -63,19 +63,19 @@
 
 // REPLACE 
 
-let text = 'Are you Jack?'
-let updated = text.replace('Jack', 'Nodir')
+// let text = 'Are you Jack?'
+// let updated = text.replace('Jack', 'Nodir')
 // console.log(updated);
 
-let text2 = 'Are you Jack, Jack?'
-let updated2 = text2.replaceAll('Jack', '');
+// let text2 = 'Are you Jack, Jack?'
+// let updated2 = text2.replaceAll('Jack', '');
 // console.log(updated2);
 
 // CONCATINATION
 
-let fName = 'Alice';
-let lName = 'Smith';
-let frName = 'Aloe'
+// let fName = 'Alice';
+// let lName = 'Smith';
+// let frName = 'Aloe'
 
 // let fullName = fName.concat(' ', lName, ' ', frName)
 // console.log(fullName);
@@ -98,18 +98,18 @@ let frName = 'Aloe'
 // console.log(paddedEndID);
 
 // AT
-let word = 'hello';
-let firstLetter = word.charAt(0).toUpperCase()
-let capitalWord = firstLetter.concat(word[1])
-// console.log(capitalWord);
+// let word = 'hello';
+// let firstLetter = word.charAt(0).toUpperCase()
+// let capitalWord = firstLetter.concat(word[1])
+// // console.log(capitalWord);
 
 // REPEAT
 // const dash = '-Salom-';
 // const line = dash.repeat(20)
 // console.log(line);
 
-let dates = '2020-12-02';
-let datesArray = dates.split('-')
+// let dates = '2020-12-02';
+// let datesArray = dates.split('-')
 // console.log(datesArray);
 
 // let str = "Dasturlash";
@@ -122,36 +122,36 @@ let datesArray = dates.split('-')
 // console.log(indexFn);
 
 
-let str = "Dasturlash";
+// let str = "Dasturlash";
 
 
 
-function charCode(letter){
-   let charCodeId = str.charCodeAt(letter);
-   return charCodeId;
-}
+// function charCode(letter){
+//    let charCodeId = str.charCodeAt(letter);
+//    return charCodeId;
+// }
 // console.log(charCode('p'));
 
 
-let strA = 'Programming';
-let strB = 'Programming';
+// let strA = 'Programming';
+// let strB = 'Programming';
 
-function checkStringEquality(strA, strB) {
+// function checkStringEquality(strA, strB) {
    // Check length
-   if(strA.length !== strB.length){
-      return 'Length are not equal.'
-   }
+   // if(strA.length !== strB.length){
+   //    return 'Length are not equal.'
+   // }
 
    // Check value
-   for(let i = 0; i < strA.length; i++){
+//    for(let i = 0; i < strA.length; i++){
 
-      if(strA.charCodeAt(i) !== strB.charCodeAt(i)){
-         return 'Values are not equal'
-      }
-   }
+//       if(strA.charCodeAt(i) !== strB.charCodeAt(i)){
+//          return 'Values are not equal'
+//       }
+//    }
 
-   return 'Length and values are equa'
+//    return 'Length and values are equa'
    
 
-}
-console.log(checkStringEquality(strA, strB));
+// }
+// console.log(checkStringEquality(strA, strB));

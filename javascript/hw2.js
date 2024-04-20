@@ -1,5 +1,5 @@
 // TODO: HOMEWORK-2
-console.log(`HOMEWORK-2`);
+// console.log(`HOMEWORK-2`);
 // _____________________________________________________
 // > TEMPLATE LITERALS:
 
