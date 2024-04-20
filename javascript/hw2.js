@@ -325,3 +325,36 @@ console.log(`HOMEWORK-2`);
 // let text = 'How long does it take learing Javascript?'
 // let separator = ' ';
 // console.log(returnStrAtLimitedNum(text, separator));
+
+13. // Checking Substring Presence:
+
+// Exercise 1: Write a function that takes a string and a substring as input, and returns  true  if the substring is at the beginning of the string, and  false  otherwise.
+
+// function checkStart(string, subString) {
+//    return string.startsWith(subString) 
+// }
+
+// string = 'Javascript is a programming language!'
+// subString = 'Python'
+// console.log(checkStart(string, subString));
+
+// Exercise 2: Write a function that takes a string and a substring as input, and returns  true  if the substring is at the end of the string, and  false  otherwise.
+
+// let checkEnd = function(string, subString){
+//    return string.endsWith(subString)
+// }
+// string = 'Javascript is a programming language!';
+// subString = 'language!';
+
+// console.log(checkEnd(string, subString));
+
+
+// Exercise 3: Write a function that takes a string and a substring as input, and returns  true  if the substring is anywhere in the string, and  false  otherwise.
+
+// let checkString = (string, subString) => {
+//    return string.includes(subString)
+// }
+
+// string = 'Javascript is a programming language!';
+// subString = 'is';
+// console.log(checkString(string, subString));
