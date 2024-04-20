@@ -236,3 +236,44 @@ console.log(`HOMEWORK-2`);
 // console.log('Start Trimmed:', removeLeadingWS());
 
 9. //Padding:
+// Exercise 1: Write a function that takes a string and a target length as input, and returns a new string that is padded with zeros at the beginning to reach the target length.
+
+
+// function addLengthToStart(targetLength, id) {
+//    let lengthenedID = id.padStart(targetLength, '0');
+//    return lengthenedID;
+// }
+
+// console.log(addLengthToStart(6, '425'));
+
+//Exercise 2: Write a function that takes a string and a target length as input, and returns a new string that is padded with a specified character at the end to reach the target length.
+
+// function addLengthToEnd(targetLength, id) {
+//    let lengthenedID = id.padStart(targetLength, '0');
+//    return lengthenedID;
+// }
+
+// console.log(addLengthToEnd(6, '777'));
+
+10. // Accessing Characters:
+
+// Exercise 1: Write a function that takes a string and an index as input, and returns the character at that index.
+
+// const returnChar = function(string, index){
+//    let targetChar = string.at(index);
+//    return (`Target character: ${targetChar}`);
+
+
+// }
+
+// console.log(returnChar('Hello World', 8));
+
+// Exercise 2: Write a function that takes a string and an index as input, and returns the character code of the character at that index.
+
+// const returnCharCode = (string, index) => {
+//    let targetChar = string.charAt(index);
+//    let charcode = targetChar.codePointAt()
+//    return `${targetChar}: ${charcode}`
+// }
+
+// console.log(returnCharCode('JAVASCRIPT', 5));
