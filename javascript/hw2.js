@@ -300,3 +300,15 @@ console.log(`HOMEWORK-2`);
    
 //    console.log(repeatString(` H `, 30));
 
+12. // Splitting into an Array:
+
+// Exercise 1: Write a function that takes a string and a separator character as input, and returns an array of substrings that were separated by the separator.
+
+// const returnSubstring = function(string, separator){
+//    let subString = string.split(separator);
+//    return subString;
+// }
+// let string = 'Where are you going?';
+// let separator = ' ';
+
+// console.log(returnSubstring(string, separator));
