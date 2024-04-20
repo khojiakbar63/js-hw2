@@ -7,7 +7,7 @@
 > ARRAY METODS
 
 > OBJECTS
-
+<!-- object destruction -->
 
 > typeof/
 
